@@ -1,5 +1,4 @@
 
-
 <!--
 **ShikaTheRock/ShikaTheRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="BTR banner" height="200" src="banner.jpg"/>
+<img alt="BTR banner" src="banner.jpg"/>
 
 # 🌕 ShikaTheRock! 🌑
 
