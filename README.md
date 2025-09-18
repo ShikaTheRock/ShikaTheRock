@@ -32,5 +32,3 @@ Well, thats all, u can see my repos (Mostly school work). I HOPE U LIKE THEM ðŸ˜
   </picture>
 </a>
 
-
-## 
