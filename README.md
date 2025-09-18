@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 
 _**I might have born as a sorcerer, but i will die as a wizard🔮**_
 
+Hiiiii :D, Im Shika a 18 year old spanish guy trying to learn ;)
+
+Im using this git to document all my development all over the years, and on the way i learn git, whitch i think if i work as anything IT bassed i will have to use it 
+
+Well, thats all, u can see my repos (Mostly school work). I HOPE U LIKE THEM 😁
+
 <a href="https://github.com/ShikaTheRock/ShikaTheRock/tree/main">
   <picture>
     <img alt="Andrew Grant's GitHub Profile README copy for my readme" src="terminal.svg">
@@ -27,4 +33,4 @@ _**I might have born as a sorcerer, but i will die as a wizard🔮**_
 </a>
 
 
-ehhh
+## 
