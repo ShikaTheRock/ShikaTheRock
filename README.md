@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **ShikaTheRock/ShikaTheRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src=https://codicegrafia.mx/wp-content/uploads/2024/07/bocchi-the-rock-CG-800x500.jpg alt="BTR banner" height="10%"/>
+
+# 🌕 ShikaTheRock! 🌑
+
+_**I might have born as a sorcerer, but i will die as a wizard**_
