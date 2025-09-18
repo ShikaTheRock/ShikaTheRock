@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="BTR banner" src="banner.jpg"/>
+<img alt="BTR banner" height="5000" src="banner.jpg"/>
 
 # 🌕 ShikaTheRock! 🌑
 
