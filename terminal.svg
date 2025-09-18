@@ -16,7 +16,7 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="400px" fill="#161b22" rx="15"/>
-<text x="290" y="30" fill="#c9d1d9">
+<text x="390" y="30" fill="#c9d1d9">
 <tspan x="110" y="30">shikatherock@potatOS</tspan> -———————————————————
 <tspan x="110" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Arch Linux</tspan>
 <tspan x="110" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">18 years</tspan>
