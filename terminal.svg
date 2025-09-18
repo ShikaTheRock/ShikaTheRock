@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="785px" height="400px" fill="#161b22" rx="15"/>
+<rect width="985px" height="400px" fill="#161b22" rx="15"/>
 <text x="290" y="30" fill="#c9d1d9">
 <tspan x="210" y="30">shikatherock@potatOS</tspan> -———————————————————
 <tspan x="210" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Arch Linux</tspan>
