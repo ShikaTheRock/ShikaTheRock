@@ -18,4 +18,10 @@ Here are some ideas to get you started:
 
 # 🌕 ShikaTheRock! 🌑
 
-_**I might have born as a sorcerer, but i will die as a wizard**_
+_**I might have born as a sorcerer, but i will die as a wizard🔮**_
+
+<a href="https://github.com/ShikaTheRock/ShikaTheRock/tree/main">
+  <picture>
+    <img alt="Andrew Grant's GitHub Profile README copy for my readme" src="terminal.svg">
+  </picture>
+</a>
