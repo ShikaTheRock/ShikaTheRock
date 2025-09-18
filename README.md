@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="BTR banner" height="200" src=https://codicegrafia.mx/wp-content/uploads/2024/07/bocchi-the-rock-CG-800x500.jpg/>
+<img alt="BTR banner" height="200" src="https://codicegrafia.mx/wp-content/uploads/2024/07/bocchi-the-rock-CG-800x500.jpg"/>
 
 # 🌕 ShikaTheRock! 🌑
 
